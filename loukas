@@ -1,13 +1,1 @@
-height = b(raw_input("Please give the height of the Tree: "))
-Trunk = b(raw_input("Please give the height of the trunk: "))
-Trunkw = b(raw_input("Please give the width of the trunk: "))
-n=0
-while n < height:
-  print((' '*(height-n))+('*'*(n*2+1))+(' '*(height-n)))
-  n=n+1
-  if(n = height):
-      p=0
-      while p < Trunkh:
-          print((' ' *height) + ('*'*Trunkw))
-          p=p+1
-  
+
